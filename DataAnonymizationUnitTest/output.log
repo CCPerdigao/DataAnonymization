@@ -1,0 +1,13 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+/Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymization/DataAnonymizationLibrary.cs(204,38): warning CS0168: The variable 'ee' is declared but never used [/Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymizationUnitTest/DataAnonymizationUnitTest.csproj]
+/Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymization/DataAnonymizationLibrary.cs(183,34): warning CS0168: The variable 'e' is declared but never used [/Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymizationUnitTest/DataAnonymizationUnitTest.csproj]
+  DataAnonymizationUnitTest -> /Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymizationUnitTest/bin/Debug/net6.0/DataAnonymizationUnitTest.dll
+Test run for /Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymizationUnitTest/bin/Debug/net6.0/DataAnonymizationUnitTest.dll (.NETCoreApp,Version=v6.0)
+Microsoft (R) Test Execution Command Line Tool Version 17.3.3 (x64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 71 ms - /Users/carlos.perdigao/Documents/DataAnonymization/Project/DataAnonymizationUnitTest/bin/Debug/net6.0/DataAnonymizationUnitTest.dll (net6.0)
