@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DataAnonymization/DesignTimeBuild
+/.vs/DataAnonymization/FileContentIndex
+/.vs
+/.vscode
+/DataAnonymization/bin
+/DataAnonymization/obj/Debug
+/DataAnonymization/obj
+/DataAnonymizationUnitTest/bin
+/DataAnonymizationUnitTest/obj
